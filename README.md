@@ -18,3 +18,5 @@ CatBoost + Text Features | 0.934  |
 TF-IDF LightGBM + CatBoost + Text Features | 0.9601 | 
 BERT-base |  0.960  |
 distilBERT(trained on spam text) |  0.965  |
+
+Лучший результат должен быть методом Transformers - submission_distilbert.csv
